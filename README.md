@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @ViktorCiganovic-collab
-- 👀 I’m interested in programming and like trying new things and always challenge myself. I would like to develop my skills in back-end development and also program other things than software.
-- 🌱 I’m currently learning C# and .Net frameworks.
-- 💞️ I’m looking to collaborate on everything that makes me learn new things and contribute.
-- 📫 How to reach me linkedin.com/in/viktor-ciganovic-b9a55b153 
-- ⚡ Fun fact: A cloud weighs around a million tonnes.
-- 🐙 My Personal Website: https://viktorciganovic-collab.github.io/personalportfoliojs/
+👋 Hi, I’m Viktor Ciganovic
+👀 I'm passionate about web development and programming. I love trying new things and pushing myself to grow. I believe learning is a life-long journey, and I am constantly challenging myself to expand my skills. My current focus is on back-end development and deepening my knowledge in this field.
+🌱 Right now, I’m deepening my understanding of Entity Framework and continuing to develop my back-end skills.
+💞️ I’m looking to collaborate on projects that will help me learn, develop, and contribute to the tech community.
+📫 You can reach me via LinkedIn.
+⚡ Fun Fact: A cloud weighs around a million tonnes.
+🐙 Check out my personal website: Personal Portfolio.
 <!---
 ViktorCiganovic-collab/ViktorCiganovic-collab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
