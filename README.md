@@ -1,9 +1,14 @@
 👋 Hi, I’m Viktor Ciganovic
 👀 I'm passionate about web development and programming. I love trying new things and pushing myself to grow. I believe learning is a life-long journey, and I am constantly challenging myself to expand my skills. My current focus is on back-end development and deepening my knowledge in this field.
+<br>
 🌱 Right now, I’m deepening my understanding of Entity Framework and continuing to develop my back-end skills.
+<br>
 💞️ I’m looking to collaborate on projects that will help me learn, develop, and contribute to the tech community.
+<br>
 📫 You can reach me via LinkedIn.
+<br>
 ⚡ Fun Fact: A cloud weighs around a million tonnes.
+<br>
 🐙 Check out my personal website: Personal Portfolio.
 <!---
 ViktorCiganovic-collab/ViktorCiganovic-collab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
